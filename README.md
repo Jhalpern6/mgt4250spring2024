@@ -22,3 +22,7 @@ These questions are *especially* **important** because...
 <img width="400" alt="Screenshot 2024-05-02 145844" src="https://github.com/Jhalpern6/mgt4250spring2024/assets/168772702/246520b9-6706-4c49-8b18-c380d00b8568">
 
 ## Discussion & Summary 
+
+'''
+import pandas as pd 
+'''
