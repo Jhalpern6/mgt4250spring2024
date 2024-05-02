@@ -3,5 +3,5 @@ pandas
 matplotlib
 plotly
 scikit-learn
-openpyexcel
+openpyxl
 xlrd
